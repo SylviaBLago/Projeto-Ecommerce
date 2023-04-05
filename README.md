@@ -15,5 +15,5 @@ Foram utilizados os dados disponíveis na plataforma [Kaggle](https://www.kaggle
 
 ## Projeto:
 
-O Dashboard pode ser acessado [aqui](https://app.powerbi.com/view?r=eyJrIjoiZGQxMzMxNWUtMTRhZS00ZDMzLWJhNTQtZTM4ZjU1ZmU3ZmJmIiwidCI6IjA5ZGU5ZmJmLTRlY2ItNGMwNy04MGNmLTg1OGYwM2IwNGIzOCJ9)
+O Dashboard pode ser acessado [aqui](https://app.powerbi.com/view?r=eyJrIjoiY2U3MTA4NzMtZDJjZi00MGFiLTg0NzYtYzY3MjM0NmFjMTVmIiwidCI6IjA5ZGU5ZmJmLTRlY2ItNGMwNy04MGNmLTg1OGYwM2IwNGIzOCJ9&pageName=ReportSection6033bb8d44dddb66acf3)
 
