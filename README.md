@@ -11,7 +11,7 @@ Elaborar um painel que permita ao gestor tomar decisões estratégicas para a em
 
 ##  Dataset:
 
-Foram utilizados os dados disponíveis na plataforma Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+Foram utilizados os dados disponíveis na plataforma [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Projeto:
 
